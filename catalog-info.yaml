@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tanzu-java-app
+  annotations:
+    github.com/project-slug: charliechocho/tanzu-java-app
+spec:
+  type: other
+  lifecycle: unknown
+  owner: sweden-team
